@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rcruz_password_validator/static/css/main.cfa393c4.css",
+    "main.js": "/rcruz_password_validator/static/js/main.94de73a0.js",
+    "index.html": "/rcruz_password_validator/index.html",
+    "main.cfa393c4.css.map": "/rcruz_password_validator/static/css/main.cfa393c4.css.map",
+    "main.94de73a0.js.map": "/rcruz_password_validator/static/js/main.94de73a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa393c4.css",
+    "static/js/main.94de73a0.js"
+  ]
+}
